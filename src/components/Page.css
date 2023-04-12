@@ -1,0 +1,32 @@
+.bg-gradient {
+    background: linear-gradient(to bottom, #0e1b2b 0%, #1b263b 100%);
+}
+.blue__gradient {
+    background: linear-gradient(to bottom, #3d81d3 0%, #053066 100%);
+}
+
+/* .card-gradient {
+    background: linear-gradient(to bottom, #778da9, #1b263b);
+} */
+@keyframes rotate {
+    from {
+        rotate: 0deg;
+    }
+    50% {
+        scale: 1 1.5;
+    }
+
+    to {
+        rotate: 360deg;
+    }
+}
+
+#blob {
+    translate: -50% -50%;
+    background: linear-gradient(to right, #8494e1, #22375c);
+    animation: rotate 20s infinite;
+}
+
+#blur {
+    backdrop-filter: blur(200px);
+}

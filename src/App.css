@@ -1,0 +1,87 @@
+/* .card {
+    position: relative;
+}
+
+.card:after {
+    background: linear-gradient(transparent, #053066, transparent);
+    height: 100px;
+    width: 5px;
+    position: absolute;
+    left: -1px;
+    top: 80%;
+    content: "";
+    opacity: 0;
+    transition: top 400ms ease-out, opacity 400ms ease-out;
+}
+
+.card:hover:after {
+    top: 15%;
+    opacity: 1;
+}
+
+@keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+.bar {
+    background: linear-gradient(to right, transparent, #0e1b2b, transparent);
+    background-size: 400% 400%;
+    animation: gradient 5s ease infinite;
+    height: 100vh;
+} */
+
+#trailer:not([data-type=""]) > #trailer-icon {
+    opacity: 1;
+}
+#trailer-icon {
+    opacity: 0;
+    transition: opacity 400ms ease;
+}
+
+#trailer {
+    height: 20px;
+    width: 20px;
+    position: fixed;
+    background-color: #fff;
+    border: 2px solid #e8ebee;
+    border-radius: 20px;
+    left: 0px;
+    top: 0px;
+    z-index: 10000;
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity 300ms ease, background-color 400ms ease;
+}
+
+.app:hover > #trailer {
+    opacity: 1;
+}
+
+.scrollbar {
+    scrollbar-width: thin;
+    scrollbar-color: #999 #eee;
+}
+
+/* Track */
+.scrollbar::-webkit-scrollbar-track {
+    background-color: #eee;
+}
+
+/* Handle */
+.scrollbar::-webkit-scrollbar-thumb {
+    background-color: #999;
+    border-radius: 10px;
+    border: 2px solid #eee;
+}
+
+/* Handle on hover */
+.scrollbar::-webkit-scrollbar-thumb:hover {
+    background-color: #555;
+}

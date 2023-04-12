@@ -1,0 +1,36 @@
+.bg-gradient {
+    background: linear-gradient(to bottom, #0e1b2b 0%, #1b263b 100%);
+}
+.blue__gradient {
+    background: linear-gradient(to bottom, #3d81d3 0%, #053066 100%);
+}
+
+.card-gradient {
+    background: linear-gradient(to bottom, #778da9, #1b263b);
+}
+
+.card {
+    position: absolute;
+}
+
+.card:after {
+    background: linear-gradient(transparent, #053066, transparent);
+    height: 100px;
+    width: 5px;
+    position: absolute;
+    left: -1px;
+    top: 80%;
+    content: "";
+    opacity: 0;
+    transition: top 400ms ease-out, opacity 400ms ease-out;
+}
+
+.card:hover:after {
+    top: 15%;
+    opacity: 1;
+    grid-template-columns: 1fr 2fr;
+}
+
+.article-section {
+    background: linear-gradient(to bottom, #0e1b2b 0%, #1a3351 100%);
+}

@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d94a9481.css",
+    "main.js": "/static/js/main.dcc5a6e0.js",
+    "static/media/back.jpg": "/static/media/back.1a5471eb163a81376123.jpg",
+    "static/media/food.png": "/static/media/food.c8d0a27e6147e7b772b3.png",
+    "static/media/yoga.jpg": "/static/media/yoga.56586c32bf356f002041.jpg",
+    "static/media/Virabhadrasana.png": "/static/media/Virabhadrasana.a064ee319f052feba379.png",
+    "static/media/Trikonasana.png": "/static/media/Trikonasana.d77d5259720417452552.png",
+    "static/media/woman.png": "/static/media/woman.de76d7987d5a34d233e8.png",
+    "static/media/Man.png": "/static/media/Man.0ce0854d478026fc3741.png",
+    "static/media/sunset.png": "/static/media/sunset.a7cf84a559a3a2124a45.png",
+    "index.html": "/index.html",
+    "main.d94a9481.css.map": "/static/css/main.d94a9481.css.map",
+    "main.dcc5a6e0.js.map": "/static/js/main.dcc5a6e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d94a9481.css",
+    "static/js/main.dcc5a6e0.js"
+  ]
+}

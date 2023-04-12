@@ -1,0 +1,1019 @@
+[
+    {
+        "id": "1",
+        "FoodItem": "Oats Idli",
+        "meal": "1",
+        "Calories": "39 kcal",
+        "Amount": "30g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "2",
+        "FoodItem": "Poha",
+        "meal": "1",
+        "Calories": "270 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "3",
+        "FoodItem": "Upma",
+        "meal": "1",
+        "Calories": "250 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "4",
+        "FoodItem": "Vermicelli Upma",
+        "meal": "1",
+        "Calories": "93 kcal",
+        "Amount": "30g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "5",
+        "FoodItem": "Uttapam",
+        "meal": "1",
+        "Calories": "120 kcal",
+        "Amount": "50g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "6",
+        "FoodItem": "Dosa",
+        "meal": "1",
+        "Calories": "133 kcal",
+        "Amount": "50g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "7",
+        "FoodItem": "Vegetable Paratha",
+        "meal": "1",
+        "Calories": "120 kcal",
+        "Amount": "30g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "8",
+        "FoodItem": "Masala Omelette",
+        "meal": "1",
+        "Calories": "110 kcal",
+        "Amount": "50g",
+        "vegNonVeg": "Non-Veg",
+        "added": "false"
+    },
+    {
+        "id": "9",
+        "FoodItem": "Boiled Egg",
+        "meal": "1",
+        "Calories": "78 kcal",
+        "Amount": "50g",
+        "vegNonVeg": "Non-Veg",
+        "added": "false"
+    },
+    {
+        "id": "10",
+        "FoodItem": "Chapati",
+        "meal": "2",
+        "Calories": "150 kcal",
+        "Amount": "50g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "11",
+        "FoodItem": "Dal",
+        "meal": "2",
+        "Calories": "90 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "12",
+        "FoodItem": "Rajma",
+        "meal": "2",
+        "Calories": "150 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "13",
+        "FoodItem": "Chhole",
+        "meal": "2",
+        "Calories": "157 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "14",
+        "FoodItem": "Palak Paneer",
+        "meal": "2",
+        "Calories": "130 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "15",
+        "FoodItem": "Chicken Curry",
+        "meal": "2",
+        "Calories": "204 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Non-Veg",
+        "added": "false"
+    },
+    {
+        "id": "16",
+        "FoodItem": "Fish Curry",
+        "meal": "2",
+        "Calories": "117 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Non-Veg",
+        "added": "false"
+    },
+    {
+        "id": "17",
+        "FoodItem": "Mixed Vegetable Sabzi",
+        "meal": "2",
+        "Calories": "100 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "18",
+        "FoodItem": "Jeera Rice",
+        "meal": "2",
+        "Calories": "160 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "19",
+        "FoodItem": "Brown Rice",
+        "meal": "2",
+        "Calories": "111 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "20",
+        "FoodItem": "Steamed Rice",
+        "meal": "2",
+        "Calories": "130 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "21",
+        "FoodItem": "Tomato Rice",
+        "meal": "2",
+        "Calories": "160 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "22",
+        "FoodItem": "Lemon Rice",
+        "meal": "2",
+        "Calories": "160 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "23",
+        "FoodItem": "Carrot Beans Thoran",
+        "meal": "2",
+        "Calories": "80 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "24",
+        "FoodItem": "Sambar",
+        "meal": "2",
+        "Calories": "120 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "25",
+        "FoodItem": "Rasam",
+        "meal": "2",
+        "Calories": "60 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "26",
+        "FoodItem": "Buttermilk",
+        "meal": "3",
+        "Calories": "30 kcal",
+        "Amount": "100ml",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "27",
+        "FoodItem": "Green Tea",
+        "meal": "3",
+        "Calories": "1 kcal",
+        "Amount": "100ml",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "28",
+        "FoodItem": "Roasted Chana",
+        "meal": "3",
+        "Calories": "46 kcal",
+        "Amount": "10g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "29",
+        "FoodItem": "Mixed Nuts",
+        "meal": "3",
+        "Calories": "200 kcal",
+        "Amount": "30g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "30",
+        "FoodItem": "Boiled Corn",
+        "meal": "3",
+        "Calories": "123 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "31",
+        "FoodItem": "Fruit Chaat",
+        "meal": "3",
+        "Calories": "70 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "32",
+        "FoodItem": "Sprouts Chat",
+        "meal": "3",
+        "Calories": "100 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "33",
+        "FoodItem": "Chickpea Salad",
+        "meal": "3",
+        "Calories": "140 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "34",
+        "FoodItem": "Chicken Tikka",
+        "meal": "3",
+        "Calories": "180 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Non-Veg",
+        "added": "false"
+    },
+    {
+        "id": "35",
+        "FoodItem": "Grilled Fish",
+        "meal": "3",
+        "Calories": "170 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Non-Veg",
+        "added": "false"
+    },
+    {
+        "id": "36",
+        "FoodItem": "Tandoori Paneer",
+        "meal": "3",
+        "Calories": "120 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "37",
+        "FoodItem": "Palak Soup",
+        "meal": "4",
+        "Calories": "40 kcal",
+        "Amount": "100ml",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "38",
+        "FoodItem": "Tomato Soup",
+        "meal": "4",
+        "Calories": "90 kcal",
+        "Amount": "100ml",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "39",
+        "FoodItem": "Mutton Stew",
+        "meal": "4",
+        "Calories": "350 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Non-Veg",
+        "added": "false"
+    },
+    {
+        "id": "40",
+        "FoodItem": "Vegetable Pulao",
+        "meal": "4",
+        "Calories": "180 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "41",
+        "FoodItem": "Chicken Biryani",
+        "meal": "4",
+        "Calories": "330 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Non-Veg",
+        "added": "false"
+    },
+    {
+        "id": "42",
+        "FoodItem": "Veg Fried Rice",
+        "meal": "4",
+        "Calories": "140 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "43",
+        "FoodItem": "Chicken Fried Rice",
+        "meal": "4",
+        "Calories": "200 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Non-Veg",
+        "added": "false"
+    },
+    {
+        "id": "44",
+        "FoodItem": "Vegetable Hakka Noodles",
+        "meal": "4",
+        "Calories": "150 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "45",
+        "FoodItem": "Chicken Hakka Noodles",
+        "meal": "4",
+        "Calories": "220 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Non-Veg",
+        "added": "false"
+    },
+    {
+        "id": "46",
+        "FoodItem": "Kadai Paneer",
+        "meal": "4",
+        "Calories": "130 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "47",
+        "FoodItem": "Aloo Gobi",
+        "meal": "4",
+        "Calories": "118 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "48",
+        "FoodItem": "Chicken Curry",
+        "meal": "4",
+        "Calories": "204 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Non-Veg",
+        "added": "false"
+    },
+    {
+        "id": "49",
+        "FoodItem": "Fish Curry",
+        "meal": "4",
+        "Calories": "117 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Non-Veg",
+        "added": "false"
+    },
+    {
+        "id": "50",
+        "FoodItem": "Methi Paratha",
+        "meal": "1",
+        "Calories": "120 kcal",
+        "Amount": "30g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "51",
+        "FoodItem": "Spinach Omelette",
+        "meal": "1",
+        "Calories": "90 kcal",
+        "Amount": "50g",
+        "vegNonVeg": "Non-Veg",
+        "added": "false"
+    },
+    {
+        "id": "52",
+        "FoodItem": "Steamed Veggies",
+        "meal": "2",
+        "Calories": "100 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "53",
+        "FoodItem": "Egg Bhurji",
+        "meal": "2",
+        "Calories": "160 kcal",
+        "Amount": "50g",
+        "vegNonVeg": "Non-Veg",
+        "added": "false"
+    },
+    {
+        "id": "54",
+        "FoodItem": "Tandoori Chicken",
+        "meal": "2",
+        "Calories": "195 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Non-Veg",
+        "added": "false"
+    },
+    {
+        "id": "55",
+        "FoodItem": "Matar Paneer",
+        "meal": "2",
+        "Calories": "120 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "56",
+        "FoodItem": "Dal Makhani",
+        "meal": "2",
+        "Calories": "197 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "57",
+        "FoodItem": "Palak Chana",
+        "meal": "2",
+        "Calories": "200 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "58",
+        "FoodItem": "Phulkas with Paneer Bhurji",
+        "meal": "2",
+        "Calories": "250 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "59",
+        "FoodItem": "Sabudana Khichdi",
+        "meal": "1",
+        "Calories": "360 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "60",
+        "FoodItem": "Ragi Dosa",
+        "meal": "1",
+        "Calories": "87 kcal",
+        "Amount": "50g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "61",
+        "FoodItem": "Quinoa Pulao",
+        "meal": "2",
+        "Calories": "205 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "62",
+        "FoodItem": "Mushroom Soup",
+        "meal": "4",
+        "Calories": "105 kcal",
+        "Amount": "100ml",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "63",
+        "FoodItem": "Broccoli Stir Fry",
+        "meal": "4",
+        "Calories": "55 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "64",
+        "FoodItem": "Mixed Vegetable Curry",
+        "meal": "4",
+        "Calories": "90 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "65",
+        "FoodItem": "Aloo Matar Ki Sabzi",
+        "meal": "2",
+        "Calories": "150 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "66",
+        "FoodItem": "Masoor Dal",
+        "meal": "2",
+        "Calories": "96 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "67",
+        "FoodItem": "Baingan Bharta",
+        "meal": "2",
+        "Calories": "140 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "68",
+        "FoodItem": "Karela Masala",
+        "meal": "2",
+        "Calories": "60 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "69",
+        "FoodItem": "Chana Masala",
+        "meal": "2",
+        "Calories": "162 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "70",
+        "FoodItem": "Vegetable Soup",
+        "meal": "4",
+        "Calories": "50 kcal",
+        "Amount": "100ml",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "71",
+        "FoodItem": "Methi Thepla",
+        "meal": "1",
+        "Calories": "150 kcal",
+        "Amount": "30g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "72",
+        "FoodItem": "Sabudana Vada",
+        "meal": "1",
+        "Calories": "180 kcal",
+        "Amount": "50g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "73",
+        "FoodItem": "Muesli with Milk",
+        "meal": "1",
+        "Calories": "250 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "74",
+        "FoodItem": "Chicken Sandwich",
+        "meal": "1",
+        "Calories": "350 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Non-Veg",
+        "added": "false"
+    },
+    {
+        "id": "75",
+        "FoodItem": "Paneer Bhurji Sandwich",
+        "meal": "1",
+        "Calories": "240 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "76",
+        "FoodItem": "Vegetable Dalia",
+        "meal": "1",
+        "Calories": "110 kcal",
+        "Amount": "50g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "77",
+        "FoodItem": "Chicken Hakka Noodles",
+        "meal": "2",
+        "Calories": "220 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Non-Veg",
+        "added": "false"
+    },
+    {
+        "id": "78",
+        "FoodItem": "Paneer Fried Rice",
+        "meal": "2",
+        "Calories": "170 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "79",
+        "FoodItem": "Mushroom Masala Curry",
+        "meal": "2",
+        "Calories": "120 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "80",
+        "FoodItem": "Chhole Bhature",
+        "meal": "2",
+        "Calories": "450 kcal",
+        "Amount": "200g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "81",
+        "FoodItem": "Egg Curry",
+        "meal": "2",
+        "Calories": "160 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Non-Veg",
+        "added": "false"
+    },
+    {
+        "id": "82",
+        "FoodItem": "Aloo Paratha",
+        "meal": "1",
+        "Calories": "260 kcal",
+        "Amount": "80g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "83",
+        "FoodItem": "Boiled Vegetables",
+        "meal": "2",
+        "Calories": "70 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "84",
+        "FoodItem": "Grilled Chicken",
+        "meal": "2",
+        "Calories": "175 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Non-Veg",
+        "added": "false"
+    },
+    {
+        "id": "85",
+        "FoodItem": "Vegetable Cutlet",
+        "meal": "3",
+        "Calories": "100 kcal",
+        "Amount": "50g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "86",
+        "FoodItem": "Chicken Cutlet",
+        "meal": "3",
+        "Calories": "140 kcal",
+        "Amount": "50g",
+        "vegNonVeg": "Non-Veg",
+        "added": "false"
+    },
+    {
+        "id": "87",
+        "FoodItem": "Khaman Dhokla",
+        "meal": "3",
+        "Calories": "120 kcal",
+        "Amount": "50g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "88",
+        "FoodItem": "Banana Smoothie",
+        "meal": "3",
+        "Calories": "130 kcal",
+        "Amount": "100ml",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "89",
+        "FoodItem": "Chicken Kebab",
+        "meal": "3",
+        "Calories": "160 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Non-Veg",
+        "added": "false"
+    },
+    {
+        "id": "90",
+        "FoodItem": "Vegetable Soup",
+        "meal": "4",
+        "Calories": "50 kcal",
+        "Amount": "100ml",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "91",
+        "FoodItem": "Chicken Soup",
+        "meal": "4",
+        "Calories": "100 kcal",
+        "Amount": "100ml",
+        "vegNonVeg": "Non-Veg",
+        "added": "false"
+    },
+    {
+        "id": "92",
+        "FoodItem": "Tomato Omelette",
+        "meal": "1",
+        "Calories": "110 kcal",
+        "Amount": "50g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "93",
+        "FoodItem": "Coconut Chutney",
+        "meal": "1",
+        "Calories": "90 kcal",
+        "Amount": "50g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "94",
+        "FoodItem": "Puri Bhaji",
+        "meal": "1",
+        "Calories": "350 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "95",
+        "FoodItem": "Paneer Tikka Masala",
+        "meal": "4",
+        "Calories": "205 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "96",
+        "FoodItem": "Kadhi Pakoda",
+        "meal": "2",
+        "Calories": "200 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "97",
+        "FoodItem": "Cucumber Raita",
+        "meal": "2",
+        "Calories": "120 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "98",
+        "FoodItem": "Lemon Rice with Curd",
+        "meal": "2",
+        "Calories": "250 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "99",
+        "FoodItem": "Lentil Soup",
+        "meal": "3",
+        "Calories": "100 kcal",
+        "Amount": "100ml",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "100",
+        "FoodItem": "Egg Fried Rice",
+        "meal": "2",
+        "Calories": "200 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Non-Veg",
+        "added": "false"
+    },
+    {
+        "id": "101",
+        "FoodItem": "Aloo Gobi Matar Masala",
+        "meal": "2",
+        "Calories": "150 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "102",
+        "FoodItem": "Chicken Tandoori",
+        "meal": "2",
+        "Calories": "180 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Non-Veg",
+        "added": "false"
+    },
+    {
+        "id": "103",
+        "FoodItem": "Samosa",
+        "meal": "3",
+        "Calories": "262 kcal",
+        "Amount": "50g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "104",
+        "FoodItem": "Fish Fry",
+        "meal": "2",
+        "Calories": "225 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Non-Veg",
+        "added": "false"
+    },
+    {
+        "id": "105",
+        "FoodItem": "Grilled Vegetables",
+        "meal": "4",
+        "Calories": "80 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "106",
+        "FoodItem": "Masala Khichdi",
+        "meal": "4",
+        "Calories": "200 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "107",
+        "FoodItem": "Vegetable Biryani",
+        "meal": "4",
+        "Calories": "230 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "108",
+        "FoodItem": "Chicken Korma",
+        "meal": "4",
+        "Calories": "220 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Non-Veg",
+        "added": "false"
+    },
+    {
+        "id": "109",
+        "FoodItem": "Mixed Dal Tadka",
+        "meal": "2",
+        "Calories": "120 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "110",
+        "FoodItem": "Gobi Paratha",
+        "meal": "1",
+        "Calories": "250 kcal",
+        "Amount": "80g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "111",
+        "FoodItem": "Chana Dal Soup",
+        "meal": "3",
+        "Calories": "70 kcal",
+        "Amount": "100ml",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    },
+    {
+        "id": "112",
+        "FoodItem": "Chicken Salad",
+        "meal": "2",
+        "Calories": "130 kcal",
+        "Amount": "100g",
+        "vegNonVeg": "Non-Veg",
+        "added": "false"
+    },
+    {
+        "id": "113",
+        "FoodItem": "Vegetable Uttapam",
+        "meal": "1",
+        "Calories": "120 kcal",
+        "Amount": "50g",
+        "vegNonVeg": "Veg",
+        "added": "false"
+    }
+]

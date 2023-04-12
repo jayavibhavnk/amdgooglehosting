@@ -1,0 +1,49 @@
+.box__shadow {
+    box-shadow: -1px 0px 18px -3px rgba(255, 255, 255, 0.4);
+    z-index: 10;
+}
+.bg_panel {
+    background: #0e1b2b;
+}
+.shadow_navigator {
+    box-shadow: 0px 0px 20px -6px rgba(255, 255, 255, 0.4);
+}
+.card-gradient {
+    background: linear-gradient(to bottom, #778da9, #1b263b);
+}
+
+.card-box {
+    position: relative;
+}
+
+.card-box:after {
+    background: linear-gradient(transparent, #053066, transparent);
+    height: 100px;
+    width: 5px;
+    position: absolute;
+    left: -1px;
+    top: 80%;
+    content: "";
+    opacity: 0;
+    transition: top 400ms ease-out, opacity 400ms ease-out;
+}
+
+.card-box:hover:after {
+    top: 15%;
+    opacity: 1;
+    grid-template-columns: 1fr 2fr;
+}
+
+@keyframes bounce {
+    0%,
+    100% {
+        transform: translateY(-5px);
+    }
+    50% {
+        transform: translateY(-5px);
+    }
+}
+
+.animate-bounce {
+    animation: bounce 2s ease-in-out infinite;
+}

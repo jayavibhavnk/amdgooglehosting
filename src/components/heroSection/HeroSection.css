@@ -1,0 +1,36 @@
+.text-gradient {
+    background: -webkit-linear-gradient(#fcfdff, #4068ad);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.text-dim-white {
+    color: #f1f1f1;
+}
+
+.bg__gradient {
+    background: linear-gradient(to bottom, #0e1b2b 0%, #1a3351 100%);
+}
+
+.pink__gradient {
+    background: linear-gradient(90deg, #f4c4f3 0%, #fc67fa 100%);
+    filter: blur(900px);
+}
+
+.white__gradient {
+    background: rgba(255, 255, 255, 0.6);
+    filter: blur(700px);
+}
+
+.blue__gradient {
+    background: linear-gradient(180deg, rgba(188, 165, 255, 0) 0%, #214d76 100%);
+    filter: blur(123px);
+}
+.cus_buttons {
+    color: #141414;
+}
+
+.cus_buttons:hover {
+    color: #fff;
+    background-color: #141414;
+}

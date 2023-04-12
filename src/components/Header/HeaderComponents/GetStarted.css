@@ -1,0 +1,13 @@
+#get__started {
+    background-image: linear-gradient(to top, #5f95f0, #97acf3, #c1c6f7, #e2e2fa, #ffffff);
+}
+
+.text-grad {
+    background: -webkit-linear-gradient(#fbfbfc, #77a0e6);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.bg-primary {
+    background-color: #0e1b2b;
+}
